@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 
 name: CI
-run-name: ${{ github.actor }} is learning GitHub Actions
+run-name: A simple GitHub Actions workflow
 
 # Controls when the workflow will run
 on:
